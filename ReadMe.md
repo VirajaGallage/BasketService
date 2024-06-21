@@ -2,11 +2,12 @@
 
 ## CMSG Technical Assessment
 
+### Intro
+You will need Visual studio 2022+, Visual Code, or any other program that allows you to compile C#. This project should work out of the box.
 
 This test is designed to test a broad scope of programming skills and capacities. Your artisitc capacity as a developer are not being tested - although if you wish to show them off then you are very welcome to.
 
-This is an open ended task that could consume you for days however I would recommend only spending 2 hours on this.
-
+This is an open ended task that could consume you for days however I would recommend only spending a couple of hours on this - please do not spend days on this. Sections of the code have been created such that there are bugs or "legacy" patterns; aka Code Smell. If you find any that are not easily fixed within the time frame set, please flag them with comments.
 
 ### Background
 
@@ -30,3 +31,5 @@ Below are a number of "tickets" that are needed to bring this site up to "MVP". 
 - Chocolate Cake's description isn't showing
 - The basket doesn't show £
 - The basket total doesn't add up correctly
+
+
