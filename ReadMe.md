@@ -33,3 +33,6 @@ Below are a number of "tickets" that are needed to bring this site up to "MVP". 
 - The basket total doesn't add up correctly
 
 
+### Completion
+
+Once you've completed the tickets you've assigned yourself. You can either push to a private repo and add https://github.com/CJ-CMSG as a contributor, or you can email a zip of the files (less the obj and bin files) to assessment@cmsg.uk.com
