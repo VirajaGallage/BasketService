@@ -38,5 +38,4 @@ Below are a number of "tickets" that are needed to bring this site up to "MVP". 
 Once you've completed the tickets you've assigned yourself. You can do one of the following (in order of preference):
 
 - Push to a private GitHub repo and add https://github.com/CJ-CMSG as a contributor 
-- Email a .patch file to assessment@cmsg.uk.com (https://gist.github.com/nepsilon/22bc62a23f785716705c)
 - Email a zip of the files (less the obj and bin files) to assessment@cmsg.uk.com
