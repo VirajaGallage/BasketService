@@ -29,7 +29,7 @@ namespace CMSGTechnical.Code
         public async Task Add(MenuItemDto item)
         {
             Basket.MenuItems.Add(item);
-            OnChange(this, new BasketChangedEventArgs(){Basket = Basket});
+            OnChange(this, new BasketChangedEventArgs() {Basket = Basket});
         }
 
         public async Task Remove(MenuItemDto item)

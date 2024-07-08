@@ -22,14 +22,18 @@
     }
     
     <div class="mt-3">
-        Total: @Basket.MenuItems.Sum(i=>i.Price)
+        Sub Total £: @Basket.MenuItems.Sum(item=>item.Price)
     </div>
+    @* <div class="mt-3">
+        Delivery Charge £: 2
+    </div>
+    <div class="mt-3">
+       Grand Total with Delivery Charge £: @Basket.MenuItems.Sum(item=>item.Price)
+    </div> *@
 </div>
 
 
 @code {
-
-
 
     [Inject] private IMediator Mediator { get; set; } = default!;
 
