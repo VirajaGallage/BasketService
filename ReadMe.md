@@ -1,5 +1,4 @@
 
-
 ## CMSG Technical Assessment
 
 ### Intro
